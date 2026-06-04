@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43fef254-f71c-4a8b-b623-5cb1fe2f738f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000080660552" />
+      <entry key="S5" value="1.0010437603659614" />
+      <entry key="S10" value="1.0734340882320064" />
+      <entry key="S30" value="3.1771110678900167" />
+      <entry key="S60" value="8.252747244225745" />
+      <entry key="M2" value="19.084962575008326" />
+      <entry key="M5" value="47.770606731464646" />
+      <entry key="M10" value="77.05062705038507" />
+      <entry key="M15" value="93.16070535662114" />
+      <entry key="M30" value="114.68970634474148" />
+      <entry key="H1" value="128.18371961153073" />
+      <entry key="H2" value="135.77350524749377" />
+      <entry key="H4" value="139.80332342842198" />
+      <entry key="D1" value="143.28862372751036" />
+      <entry key="W1" value="143.89807806242774" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.4165596968184945E-78" />
+      <entry key="S2" value="3.449917584893521E-20" />
+      <entry key="S5" value="1.641095537164818E-8" />
+      <entry key="S10" value="1.2909754081615293E-4" />
+      <entry key="S30" value="0.07957792451154133" />
+      <entry key="S60" value="0.6864843171308753" />
+      <entry key="M2" value="2.67531284057293" />
+      <entry key="M5" value="7.568095887583648" />
+      <entry key="M10" value="11.570087252284132" />
+      <entry key="M15" value="13.519639541991719" />
+      <entry key="M30" value="15.941969503685367" />
+      <entry key="H1" value="17.37882604065085" />
+      <entry key="H2" value="18.16451121333578" />
+      <entry key="H4" value="18.575777287756" />
+      <entry key="D1" value="18.928373969473245" />
+      <entry key="W1" value="18.989744824074712" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.04703896085659584" />
+      <entry key="MS500" value="0.5426146859409036" />
+      <entry key="S2" value="0.8582679375218573" />
+      <entry key="S5" value="0.9415991845215765" />
+      <entry key="S10" value="1.0384678381797858" />
+      <entry key="S30" value="3.2027052548907418" />
+      <entry key="S60" value="8.862231910599718" />
+      <entry key="M2" value="21.665025162067902" />
+      <entry key="M5" value="55.24218795794149" />
+      <entry key="M10" value="88.54550979211821" />
+      <entry key="M15" value="106.62099458468035" />
+      <entry key="M30" value="130.5961325192651" />
+      <entry key="H1" value="145.54300527200695" />
+      <entry key="H2" value="153.92775920928838" />
+      <entry key="H4" value="158.37384418896005" />
+      <entry key="D1" value="162.2161032975947" />
+      <entry key="W1" value="162.88769465939038" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3EgNIK9NpMQRO7BHjyHtIGoClKe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.24374.152" />
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43fef254-f71c-4a8b-b623-5cb1fe2f738f" name="Changes" comment="" />
+      <created>1780596171535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780596171535</updated>
+      <workItem from="1780596172538" duration="2756000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Logistic_Regression$main.coverage" NAME="main Coverage Results" MODIFIED="1780597722099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
